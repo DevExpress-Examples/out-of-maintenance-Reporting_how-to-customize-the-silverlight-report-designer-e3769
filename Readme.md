@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainPage.xaml](./CS/SilverlightApplication_ReportDesigner_CustomButton/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/SilverlightApplication_ReportDesigner_CustomButton/MainPage.xaml.vb))
+* [MainPage.xaml](./CS/SilverlightApplication_ReportDesigner_CustomButton/MainPage.xaml) (VB: [MainPage.xaml](./VB/SilverlightApplication_ReportDesigner_CustomButton/MainPage.xaml))
 * [MainPage.xaml.cs](./CS/SilverlightApplication_ReportDesigner_CustomButton/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/SilverlightApplication_ReportDesigner_CustomButton/MainPage.xaml.vb))
 * **[MainPageViewModel.cs](./CS/SilverlightApplication_ReportDesigner_CustomButton/MainPageViewModel.cs) (VB: [MainPageViewModel.vb](./VB/SilverlightApplication_ReportDesigner_CustomButton/MainPageViewModel.vb))**
 <!-- default file list end -->
