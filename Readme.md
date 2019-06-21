@@ -6,6 +6,9 @@
 * **[MainPageViewModel.cs](./CS/SilverlightApplication_ReportDesigner_CustomButton/MainPageViewModel.cs) (VB: [MainPageViewModel.vb](./VB/SilverlightApplication_ReportDesigner_CustomButton/MainPageViewModel.vb))**
 <!-- default file list end -->
 # How to customize the Silverlight Report Designer
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3769)**
+<!-- run online end -->
 
 
 <p>This example illustrates how you can customize the Ribbon toolbar of the Silverlight Report Designer (e.g., remove an existing button or add a custom one).</p>
